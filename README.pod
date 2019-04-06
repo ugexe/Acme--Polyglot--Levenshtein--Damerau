@@ -20,6 +20,10 @@ Levenshtein and Damerau Levenshtein edit distances
 
 Returns the true Damerau Levenshtein edit distance of strings with adjacent transpositions. 
 
+=head2 WARNING
+
+This is a polyglot module that works for both Perl 5 and Perl 6 -- don't use this code as inspiration for a non-polyglot codebase.
+
 =head3 Routines
 
 =over 8
