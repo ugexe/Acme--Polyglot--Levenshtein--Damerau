@@ -24,6 +24,14 @@ Returns the true Damerau Levenshtein edit distance of strings with adjacent tran
 
 This is a polyglot module that works for both Perl 5 and Perl 6 -- don't use this code as inspiration for a non-polyglot codebase.
 
+=head2 Installation
+
+    # Perl 5
+    $ cpanm https://github.com/ugexe/Acme--Polyglot--Levenshtein--Damerau.git
+
+    # Perl 6
+    $ zef install https://github.com/ugexe/Acme--Polyglot--Levenshtein--Damerau.git
+
 =head3 Routines
 
 =over 8
