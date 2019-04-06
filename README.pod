@@ -7,7 +7,7 @@
 Levenshtein and Damerau Levenshtein edit distances
 
 =for HTML <a href="https://travis-ci.org/ugexe/Acme--Polyglot--Levenshtein--Damerau"><img src="https://travis-ci.org/ugexe/Acme--Polyglot--Levenshtein--Damerau.svg?branch=master"></a>
-          <a href="https://ci.appveyor.com/project/ugexe/Acme--Polyglot--Levenshtein--Damerau/branch/master"><img src="https://ci.appveyor.com/api/projects/status/github/ugexe/Acme--Polyglot--Levenshtein--Damerau?branch=master&passingText=Windows%20-%20OK&failingText=Windows%20-%20FAIL&pendingText=Windows%20-%20pending&svg=true"></a>
+          <a href="https://ci.appveyor.com/project/ugexe/Acme-Polyglot-Levenshtein-Damerau/branch/master"><img src="https://ci.appveyor.com/api/projects/status/github/ugexe/Acme--Polyglot--Levenshtein--Damerau?branch=master&passingText=Windows%20-%20OK&failingText=Windows%20-%20FAIL&pendingText=Windows%20-%20pending&svg=true"></a>
 
 =head2 Synopsis
 
@@ -32,7 +32,7 @@ This is a polyglot module that works for both Perl 5 and Perl 6 -- don't use thi
     # Perl 6
     $ zef install https://github.com/ugexe/Acme--Polyglot--Levenshtein--Damerau.git
 
-=head3 Routines
+=head2 Routines
 
 =over 8
 
