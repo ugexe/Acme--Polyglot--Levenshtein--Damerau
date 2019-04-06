@@ -4,7 +4,7 @@
 
 =head2 Acme::Polyglot::Levenshtein::Damerau
 
-Levenshtein and Damerau Levenshtein edit distances
+Calculate damerau levenshtein edit distances
 
 =for HTML <a href="https://travis-ci.org/ugexe/Acme--Polyglot--Levenshtein--Damerau"><img src="https://travis-ci.org/ugexe/Acme--Polyglot--Levenshtein--Damerau.svg?branch=master"></a>
           <a href="https://ci.appveyor.com/project/ugexe/Acme-Polyglot-Levenshtein-Damerau/branch/master"><img src="https://ci.appveyor.com/api/projects/status/github/ugexe/Acme--Polyglot--Levenshtein--Damerau?branch=master&passingText=Windows%20-%20OK&failingText=Windows%20-%20FAIL&pendingText=Windows%20-%20pending&svg=true"></a>
